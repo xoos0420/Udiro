@@ -2,8 +2,8 @@ import express from 'express';
 import * as mainController from '../../controller/culture/main.js'; //
 const router = express.Router();
 
-// GET
-// router.get('/', festaController.getFestas);
+GET;
+router.get('/', mainController.getFestasandPlace);
 
 // // GET
 // // num
